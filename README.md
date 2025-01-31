@@ -20,6 +20,14 @@
  
 ### Main skills:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
+## Main Skills:
+![VBA](https://img.shields.io/badge/-VBA-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=0D1117)&nbsp;
+![RPA](https://img.shields.io/badge/-RPA-0D1117?style=for-the-badge&logo=robot-framework&logoColor=red&labelColor=0D1117)&nbsp;
+
 
  
 ### Tools:
